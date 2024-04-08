@@ -7,6 +7,7 @@ body {
     height: 100vh;
     background-color: #042a2b;
     background-image: url("/imgs/classy-fabric.png");
+    overflow-x: hidden;
 }
 
 p, h2, h1 {
