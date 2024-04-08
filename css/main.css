@@ -13,6 +13,10 @@ body {
     overflow-x: hidden;
 }
 
+a {
+    color: #042a2b;
+}
+
 p, h2, h1 {
     margin: 2px;
 }
